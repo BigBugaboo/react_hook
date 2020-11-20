@@ -1,4 +1,3 @@
-import { map_ListPurchaseTaskRequest_PagingField } from 'gm_api/src/purchase'
 import { useState, useEffect, RefObject } from 'react'
 
 /**
