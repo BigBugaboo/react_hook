@@ -39,5 +39,5 @@ const Template: ComponentStory<typeof Example> = (args) => (
   <Example {...args} />
 );
 
-export const DeepState = Template.bind({});
-DeepState.args = {};
+export const UseDeepState = Template.bind({});
+UseDeepState.args = {};
